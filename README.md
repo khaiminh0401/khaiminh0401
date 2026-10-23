@@ -1,17 +1,60 @@
-<h1 align="center">Hi 👋, I'm Dao Khai Minh</h1>
-<h3 align="center">Full-Stack & DevOps Engineer | Building Enterprise AI Systems</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaiminh0401&label=Profile%20views&color=0e75b6&style=flat" alt="khaiminh0401" /> </p>
+# Hi, I'm Dao Khai Minh 👋
 
-- 💬 Ask me about **AI Agent workflows, Microservices architecture, and DevOps.**
+### Java Backend Engineer | Spring Boot | Distributed Systems
 
-- 📫 How to reach me **khaiminh0401@gmail.com**
+Building reliable backend services with a focus on clean architecture, data consistency, performance and production operations.
 
-- ⚡ Fun fact **Powered by an alarming amount of iced milk tea and salt coffee. ☕🧋**
+![Profile views](https://komarev.com/ghpvc/?username=khaiminh0401&label=Profile%20views&color=0e75b6&style=flat)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## About Me
+
+I'm a backend engineer focused on **Java 21** and **Spring Boot**, with experience in microservices and cloud-native operations. I'm interested in how systems behave under concurrent workloads, partial failures and scaling constraints.
+
+- **Backend:** Java, Spring Boot, Spring Security, Spring Cloud Gateway, REST APIs
+- **Data & messaging:** PostgreSQL, MongoDB, Redis, Apache Kafka
+- **Infrastructure:** Docker, Kubernetes, Linux, Prometheus, Grafana, Loki
+- **Engineering interests:** Transaction consistency, caching, asynchronous messaging, observability and performance
+- **Exploring:** Spring AI, Model Context Protocol (MCP), AI agent orchestration and Temporal
+
+## Tech Stack
+
+**Core:** `Java 21` · `Spring Boot` · `Spring Security` · `Spring Cloud` · `SQL`
+
+**Data & Messaging:** `PostgreSQL` · `MongoDB` · `Redis` · `Kafka`
+
+**Operations:** `Docker` · `Kubernetes` · `Linux` · `Prometheus` · `Grafana` · `Loki`
+
+**Additional:** `Angular` · `C# / .NET` · `Spring AI`
+
+## Selected Projects
+
+The following are existing public repositories, including projects and technical experiments. Individual repository documentation reflects their implementation status.
+
+| Project | Focus |
+|---|---|
+| [micro-system](https://github.com/khaiminh0401/micro-system) | Microservices exploration |
+| [micro-gateway](https://github.com/khaiminh0401/micro-gateway) | API Gateway |
+| [mcp-demo-spring](https://github.com/khaiminh0401/mcp-demo-spring) | Spring and MCP experiments |
+| [Java6_ASM_BE](https://github.com/khaiminh0401/Java6_ASM_BE) | Java backend coursework |
+| [training-devops](https://github.com/khaiminh0401/training-devops) | DevOps practice |
+| [markitdown-math-pdf-poc](https://github.com/khaiminh0401/markitdown-math-pdf-poc) | PDF and mathematical content processing proof of concept |
+
+## Engineering Topics I'm Exploring
+
+- Building secure and maintainable REST APIs with clear module boundaries
+- Concurrency, locking, idempotency and transaction management
+- Messaging reliability, retries and eventual consistency
+- SQL tuning, connection pools, Redis caching and load testing
+- CI/CD, monitoring, troubleshooting and production readiness
+
+I value **readable code, explicit trade-offs, reproducible tests and architecture documentation**.
+
+## Contact
+
+📫 [khaiminh0401@gmail.com](mailto:khaiminh0401@gmail.com)
+
+<sub>Outside of coding: iced milk tea and salt coffee ☕🧋</sub>
