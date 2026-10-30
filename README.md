@@ -1,60 +1,55 @@
-<div align="center">
+# Dao Khai Minh
 
-# Hi, I'm Dao Khai Minh 👋
+Full-Stack Software Engineer | Java, Spring Boot & Angular | Distributed Systems & Cloud Native
 
-### Java Backend Engineer | Spring Boot | Distributed Systems
+I build Java APIs and Angular interfaces, with a focus on clear contracts, relational data and reliable failure handling. My portfolio centers on FlowDesk, where I document architecture decisions and verify behavior across the browser, API and database.
 
-Building reliable backend services with a focus on clean architecture, data consistency, performance and production operations.
+## Core stack
 
-![Profile views](https://komarev.com/ghpvc/?username=khaiminh0401&label=Profile%20views&color=0e75b6&style=flat)
+- **Backend:** Java 21, Spring Boot, REST APIs and API contract testing.
+- **Frontend:** Angular 20, TypeScript, standalone components, lazy routing and RxJS.
+- **Database:** PostgreSQL, SQL constraints, Flyway migrations and Testcontainers integration tests.
+- **Infrastructure & delivery:** Docker Compose for local development, GitHub Actions, frontend lint/build checks and Playwright E2E tests.
 
-</div>
+## Flagship: [FlowDesk](https://github.com/khaiminh0401/flowdesk)
 
-## About Me
+An enterprise workspace and workflow management application **in development**. The current increment establishes the engineering foundation and live dashboard/API connectivity.
 
-I'm a backend engineer focused on **Java 21** and **Spring Boot**, with experience in microservices and cloud-native operations. I'm interested in how systems behave under concurrent workloads, partial failures and scaling constraints.
+**Stack:** Java 21 / Spring Boot 3.5 · Angular 20 / TypeScript · PostgreSQL 17 / Flyway.
 
-- **Backend:** Java, Spring Boot, Spring Security, Spring Cloud Gateway, REST APIs
-- **Data & messaging:** PostgreSQL, MongoDB, Redis, Apache Kafka
-- **Infrastructure:** Docker, Kubernetes, Linux, Prometheus, Grafana, Loki
-- **Engineering interests:** Transaction consistency, caching, asynchronous messaging, observability and performance
-- **Exploring:** Spring AI, Model Context Protocol (MCP), AI agent orchestration and Temporal
+**Architecture:** Modular Monolith — one Spring Boot API, one Angular SPA and one database. Feature packages provide the starting structure; business modules are planned. The [architecture decision](https://github.com/khaiminh0401/flowdesk/blob/main/docs/adr/0001-modular-monolith.md) explains the choice and its scaling trade-offs.
 
-## Tech Stack
+### Implemented
 
-**Core:** `Java 21` · `Spring Boot` · `Spring Security` · `Spring Cloud` · `SQL`
+- API info and health endpoints, plus a standalone Angular shell with a lazy dashboard.
+- A read-only connection card with loading, response validation, bounded errors and retry.
+- Flyway V1 schema groundwork, tested against real PostgreSQL with Testcontainers.
+- API and Angular unit tests, Playwright connectivity/failure/mobile tests, and GitHub Actions quality gates.
 
-**Data & Messaging:** `PostgreSQL` · `MongoDB` · `Redis` · `Kafka`
+### Planned
 
-**Operations:** `Docker` · `Kubernetes` · `Linux` · `Prometheus` · `Grafana` · `Loki`
+Authentication and sessions, workspace RBAC and management, project/task CRUD, Kanban, approvals and audit history. The user table is schema groundwork; no user API or JPA entity exists yet. Production deployment and observability are future milestones.
 
-**Additional:** `Angular` · `C# / .NET` · `Spring AI`
+**Evidence:** [CI run on `69ad007`](https://github.com/khaiminh0401/flowdesk/actions/runs/40338793703) passed on October 26, 2026: 2 API unit tests, 7 PostgreSQL integration tests, 18 Angular unit tests and 4 Playwright tests. These tests cover the implemented foundation and connectivity.
 
-## Selected Projects
+Explore the [test strategy](https://github.com/khaiminh0401/flowdesk/blob/main/docs/engineering/TEST-STRATEGY.md), [source at the verified commit](https://github.com/khaiminh0401/flowdesk/tree/69ad007b0e6cb52ccd7950d473b11ffb8c8f4ec2) and [roadmap](https://github.com/khaiminh0401/flowdesk/blob/main/docs/engineering/PRODUCT-ROADMAP.md).
 
-The following are existing public repositories, including projects and technical experiments. Individual repository documentation reflects their implementation status.
+## Selected projects
 
-| Project | Focus |
-|---|---|
-| [micro-system](https://github.com/khaiminh0401/micro-system) | Microservices exploration |
-| [micro-gateway](https://github.com/khaiminh0401/micro-gateway) | API Gateway |
-| [mcp-demo-spring](https://github.com/khaiminh0401/mcp-demo-spring) | Spring and MCP experiments |
-| [Java6_ASM_BE](https://github.com/khaiminh0401/Java6_ASM_BE) | Java backend coursework |
-| [training-devops](https://github.com/khaiminh0401/training-devops) | DevOps practice |
-| [markitdown-math-pdf-poc](https://github.com/khaiminh0401/markitdown-math-pdf-poc) | PDF and mathematical content processing proof of concept |
+- **[Java6_ASM_BE](https://github.com/khaiminh0401/Java6_ASM_BE)** — Java/Spring Boot e-commerce coursework with product pagination/filtering, cart and order APIs. An earlier backend project.
+- **[micro-gateway](https://github.com/khaiminh0401/micro-gateway)** — Java 21 / Spring Cloud Gateway experiment with reactive routes and path rewriting configured in YAML.
+- **[mcp-demo-spring](https://github.com/khaiminh0401/mcp-demo-spring)** — Java 21 / Spring AI travel-booking proof of concept: a Gemini-backed REST agent and three MCP servers for synthetic flight, hotel and cab bookings, with H2 persistence.
 
-## Engineering Topics I'm Exploring
+## Engineering focus
 
-- Building secure and maintainable REST APIs with clear module boundaries
-- Concurrency, locking, idempotency and transaction management
-- Messaging reliability, retries and eventual consistency
-- SQL tuning, connection pools, Redis caching and load testing
-- CI/CD, monitoring, troubleshooting and production readiness
+I value readable code, reproducible tests and explicit trade-offs. My current work focuses on:
 
-I value **readable code, explicit trade-offs, reproducible tests and architecture documentation**.
+- Tracing failures across UI, HTTP contracts and database boundaries.
+- Testing schema constraints against a real database and handling loading/error/retry states explicitly.
+- Choosing architecture that fits the current scope and documenting when to revisit it.
+
+I am deepening my understanding of distributed systems and cloud-native engineering, especially transaction consistency, idempotency, messaging reliability and observability.
 
 ## Contact
 
-📫 [khaiminh0401@gmail.com](mailto:khaiminh0401@gmail.com)
-
-<sub>Outside of coding: iced milk tea and salt coffee ☕🧋</sub>
+[khaiminh0401@gmail.com](mailto:khaiminh0401@gmail.com) · [GitHub](https://github.com/khaiminh0401)
